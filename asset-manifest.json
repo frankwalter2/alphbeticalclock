@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alphbeticalclock/static/css/main.03650f3f.css",
-    "main.js": "/alphbeticalclock/static/js/main.dc9b6e9c.js",
+    "main.js": "/alphbeticalclock/static/js/main.264ceaf9.js",
     "static/js/453.3a8c24e7.chunk.js": "/alphbeticalclock/static/js/453.3a8c24e7.chunk.js",
     "index.html": "/alphbeticalclock/index.html",
     "main.03650f3f.css.map": "/alphbeticalclock/static/css/main.03650f3f.css.map",
-    "main.dc9b6e9c.js.map": "/alphbeticalclock/static/js/main.dc9b6e9c.js.map",
+    "main.264ceaf9.js.map": "/alphbeticalclock/static/js/main.264ceaf9.js.map",
     "453.3a8c24e7.chunk.js.map": "/alphbeticalclock/static/js/453.3a8c24e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03650f3f.css",
-    "static/js/main.dc9b6e9c.js"
+    "static/js/main.264ceaf9.js"
   ]
 }
